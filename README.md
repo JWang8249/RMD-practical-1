@@ -5,3 +5,5 @@ The second edit on Github.
 Author: Jingyi Wang.
 Hi, I'm Jingyi Wang.
 I'm learning how to use Github Issues.
+## Fun Fact
+Hello world!
