@@ -5,5 +5,6 @@ The second edit on Github.
 Author: Jingyi Wang.
 Hi, I'm Jingyi Wang.
 I'm learning how to use Github Issues.
+For week 2, I created a new Makefile, and prep_data.sh.
 ## Fun Fact
 Hello world!
